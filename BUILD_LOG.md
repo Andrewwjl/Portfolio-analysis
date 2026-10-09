@@ -1,6 +1,6 @@
 # Building Log 
 
-## 2026/10/08 -- Project Step up
+## 2026/10/08 -- Project Set up
 - Exported Trading 212 history (two CSVs) and put them in data/raw/
 - Created the virtual environment and installed pandas, numpy, matplotlib, yfinance, jupyter
 - Saved the libraries to requirements.txt
@@ -10,4 +10,9 @@
 
 ## 2026/10/09 -- README
 - I Wrote the README document: Context, tools used, data, status
-- Fixed any spelling and phrasing over several drafts 
+- Fixed any spelling and phrasing over several drafts  
+- git status
+- git add .
+- git commit -m "Describe what you did"
+- git push 
+- Pushed the project to Github (first commit)
