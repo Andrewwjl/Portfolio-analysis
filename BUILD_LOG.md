@@ -11,8 +11,18 @@
 ## 2026/10/09 -- README
 - I Wrote the README document: Context, tools used, data, status
 - Fixed any spelling and phrasing over several drafts  
+- Pushed the project to Github (first commit)
+
+
+## Git routine
 - git status
 - git add .
 - git commit -m "Describe what you did"
-- git push 
-- Pushed the project to Github (first commit)
+- git push.
+
+## 2026/10/15 -- Loaded and checked the data 
+- Loaded both CSVs and combined them, giving 2959 rows
+- Checked missing values with isna().sum() 
+- .isna() = changes the values in the table to boolean values, it gives true if NULL and false if has value. It's basically asking "Is it empty"
+- .sum() is to add up each column 
+
